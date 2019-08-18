@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Kids Adda</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <string name="internet">A Stable Internet Connection is required to run this App Smoothly.</string>
+
+    <string name="math">Mathematics For Class 1 | Maths Made Easy</string>
+    <string name="mathsSub1">This video teaches Maths with the help of Computer Graphics and Animation supported by excellent voice over, which will help the kids understand Maths very easily. </string>
+
+    <string name="math2">Learning Multiplication Tables 1 to 20 Tables</string>
+    <string name="mathsSub2">Learn how Multiplication Tables work in a fun manner.</string>
+
+    <string name="math3">Math Facts - Addition and Subtraction Level 1</string>
+    <string name="mathsSub3">Math Facts 1, 2, and 3 make learning to add and subtract fun and easy! With adorable characters that your child will grow to love, your child will be able to easily recall.</string>
+
+    <string name="math4">Numberblocks - Twelve Totally Awesome Fun Adventures!</string>
+    <string name="mathsSub4">The Numberblocks are little blocks with big ideas, having a ton of number fun! Learn how to add, subtract and count in a fun and educational way.</string>
+
+
+    <string name="hindiprayer1">Prathana Hindi Rhymes for Children</string>.
+    <string name="hindiprayersub1">Prayer song for Children-Prathana, Children Hindi Rhyme with catchy music will attract even babies and adult alike.</string>
+
+    <string name="hindiprayer2">6 Superhit Hindi Prayer Songs of all the time</string>.
+    <string name="hindiprayersub2">These Prayer are some of the best prayer from Bollywood movies </string>
+
+    <string name="hindiprayer3">Morning Prayer - itni Sakti mujhe dena data</string>.
+    <string name="hindiprayersub3">This is a most enthusiastic prayer, it gives an energetic start Of ones daily life.</string>
+
+
+    <string name="englishprayer1">Kids Video - Thank You God | English Prayer For Kids</string>.
+    <string name="englishprayersub1">Here we bring you the popular English Nursery Rhyme "Thank You God , English Prayer For Kids" for your little child to recite and learn</string>
+
+    <string name="englishprayer2">Gods Love Is So Wonderful - Nursery Rhymes</string>.
+    <string name="englishprayersub2">Enjoy this famous Nursery Rhyme on "God's Love Is So Wonderful" from the famous 3D animated series of Infobells.</string>
+
+    <string name="englishprayer3">The Lords Prayer for Children - Our Father</string>.
+    <string name="englishprayersub3">The complete version includes the prayer alongside an easy to understand application for children</string>
+
+
+    <string name="hindirhyme1">Machli Jal Ki Rani Hai | Rhymes in hindi</string>.
+    <string name="hindirhymesub1">Machli jal ki rani hai, one of the oldest and favorite rhyme which childrens loves to sing.</string>
+
+    <string name="hindirhyme2">Lakdi Ki Kathi Kathi Pe Ghoda Song.</string>.
+    <string name="hindirhymesub2">Lakdi Ki Kathi Kathi Pe Ghoda is a very famous kids song from film Massom which was released in 1960.</string>
+
+    <string name="hindirhyme3">Hindi | Nani Teri Morni Ko Mor Le Gaye</string>.
+    <string name="hindirhymesub3">Nani plays a vital role in the lives of kids. Generally, Nani tells stories to her grandkids, but in this song, the little girl is singing and dancing to tell a story to her Nani.</string>
+
+    <string name="hindirhyme4">Aloo Kachaloo Kahan Gaye They | Rhymes in hindi</string>.
+    <string name="hindirhymesub4">Aloo and Kachaloo are very funny characters. They always find themselves in tricky situations and when things go wrong, they start crying.</string>
+
+    <string name="hindirhyme5">Brush Karo, brush your teeth | Hindi Rhymes for Children</string>.
+    <string name="hindirhymesub5">Learning Good habits are important for kids with rhymes in hindi  like teeth cleaning, bathing, room cleaning and good manners on youtube.</string>
+
+
+    <string name="englishrhyme1">Johny Johny Yes Papa | The Best Song for Children</string>.
+    <string name="englishrhymesub1">"Johnny Johnny Yes Papa", a super fun animated nursery rhyme created by LooLoo Kids.</string>
+
+    <string name="englishrhyme2">Rain, Rain Go Away | The Best Song for Children</string>.
+    <string name="englishrhymesub2">"Rain, Rain Go Away", a super fun animated nursery rhyme created by LooLoo Kids.</string>
+
+    <string name="englishrhyme3">Five Little Ducks | The Best Song for Children</string>.
+    <string name="englishrhymesub3">"Five Little Ducks", a super fun animated nursery rhyme created by LooLoo Kids.</string>
+
+    <string name="englishrhyme4">Are You Sleeping (Brother John)? | The Best Song for Children</string>
+    .
+    <string name="englishrhymesub4">"Are You Sleeping (Brother John)?", a super fun animated nursery rhyme created by LooLoo Kids.</string>
+
+    <string name="englishrhyme5">Baby Shark | The Best Song for Children</string>.
+    <string name="englishrhymesub5">"Baby Shark", a super fun animated nursery rhyme created by LooLoo Kids.</string>
+
+
+</resources>

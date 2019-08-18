@@ -1,0 +1,28 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#BDBDBD</item> <!-- #ffffff-->
+        <item name="colorPrimaryDark">#212121</item>
+        <item name="colorAccent">#212121</item> <!-- #424242 -->
+    </style>
+
+    <style name="AppTheme.NoActionBar" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowFullscreen">false</item>
+
+        <item name="colorPrimary">#ffffff</item>
+        <item name="colorPrimaryDark">@color/md_grey_200</item>
+        <item name="colorAccent">@color/md_grey_200</item>
+    </style>
+
+    <style name="NavigationView">
+        <item name="fontFamily">@font/linotte_regular</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:listDivider">@android:color/transparent</item>
+        <item name="android:textSize">16sp</item>
+        <item name="listPreferredItemPaddingLeft">20dp</item>
+    </style>
+</resources>
