@@ -1,5 +1,8 @@
 # KidsAdda
-Kids Adda is interactive 
+Kids Adda is child interactive Application, which helps learning fun.
+
+It Contains Various Videos, and Fun Games which devlops the IQ of a kid. 
+While playing they can learn various stuff, it contains Rhymes, Prayers, and Various Fun maths Video.
 
 
 ## ScreenShots
@@ -16,7 +19,7 @@ Kids Adda is interactive
 
 ## Minimum Requirement to Run this app
 
-1. Android Device [Above Api 20 (Lollipop)]
+1. Android Device [Above Api 21 (Lollipop)]
 2. 1 GB Ram and 100 MB Free Storage
 3. Internet Connection
 
@@ -27,8 +30,6 @@ Kids Adda is interactive
 
 ## Library Used
 
-- Youtube Api
-- Advance Web View
-"https://github.com/delight-im/Android-AdvancedWebView"
-- Async Task Library
+- Youtube Api "https://developers.google.com/youtube/android/player/downloads/"
+- Advance Web View  "https://github.com/delight-im/Android-AdvancedWebView"
 
