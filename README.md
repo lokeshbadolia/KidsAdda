@@ -3,6 +3,7 @@ Kids Adda is child interactive Application, which helps learning fun.
 
 It Contains Various Videos, and Fun Games which devlops the IQ of a kid. 
 While playing they can learn various stuff, it contains Rhymes, Prayers, and Various Fun maths Video.
+It Also conatins some Logic Games which helps in increasing the Consentration level of kids.
 
 
 ## ScreenShots
@@ -15,6 +16,13 @@ While playing they can learn various stuff, it contains Rhymes, Prayers, and Var
 </p>
 
 ## Application Objective
+
+To make Learning fun for kids, so they can learn in easy way.
+
+
+## Targeted Audience
+
+Age 1 to 8 (Mainly for kids)
 
 
 ## Minimum Requirement to Run this app
