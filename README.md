@@ -4,7 +4,7 @@ Kids Adda is interactive
 
 
 <p align="left">
-  <img src="https://github.com/lokeshbadolia/KidsAdda/blob/master/final1.png" width="200"  height="350" >
+  <img src="https://github.com/lokeshbadolia/KidsAdda/blob/master/final1.png" width="500"  height="500" >
   <img src="https://github.com/lokeshbadolia/KidsAdda/blob/master/final2.png" width="622"  height="350" >
   <img src="https://github.com/lokeshbadolia/KidsAdda/blob/master/final3.png" width="622"  height="350" >
   <img src="https://github.com/lokeshbadolia/KidsAdda/blob/master/final4.png" width="622"  height="350" >
