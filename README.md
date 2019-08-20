@@ -38,8 +38,8 @@ Age 1 to 8 (Mainly for kids)
 
 ## Library Used
 
-- Youtube Api "https://developers.google.com/youtube/android/player/downloads/"
-- Advance Web View  "https://github.com/delight-im/Android-AdvancedWebView"
+- Youtube Api        https://developers.google.com/youtube/android/player/downloads/
+- Advance Web View   https://github.com/delight-im/Android-AdvancedWebView
 
 ## Installable App link 
-- "https://drive.google.com/open?id=1wcHs_zqr7PNTPq7_wyAbLeztCxiE2fu-"
+https://drive.google.com/open?id=1wcHs_zqr7PNTPq7_wyAbLeztCxiE2fu-
