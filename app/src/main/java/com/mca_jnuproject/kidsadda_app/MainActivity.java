@@ -102,7 +102,7 @@ public class MainActivity extends AppCompatActivity {
                         startActivity(EmailIntent);
                         break;
                     case R.id.nav_contributors:
-                        Intent profilePageIntent = new Intent(MainActivity.this, Games.class);
+                        Intent profilePageIntent = new Intent(MainActivity.this, Contribution.class);
                         profilePageIntent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
                         startActivity(profilePageIntent);
                         break;

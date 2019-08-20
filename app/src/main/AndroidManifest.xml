@@ -18,7 +18,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme.NoActionBar">
-        <activity android:name=".GeneralQuestion"></activity>
+        <activity android:name=".Contribution"></activity>
+        <activity android:name=".GeneralQuestion" />
         <activity android:name=".YoutubePlayer" />
         <activity
             android:name=".Check_Internet"
