@@ -69,7 +69,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:scaleType="centerCrop"
-                        app:srcCompat="@drawable/blank" />
+                        app:srcCompat="@drawable/director" />
 
 
                 </android.support.v7.widget.CardView>
@@ -138,7 +138,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:scaleType="centerCrop"
-                        app:srcCompat="@drawable/blank" />
+                        app:srcCompat="@drawable/jameelsir" />
 
 
                 </android.support.v7.widget.CardView>
@@ -502,7 +502,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:scaleType="centerCrop"
-                        app:srcCompat="@drawable/blank" />
+                        app:srcCompat="@drawable/dinesh" />
 
 
                 </android.support.v7.widget.CardView>
